@@ -1,0 +1,30 @@
+/* 🔥 STATS CARDS */
+.stat-card {
+  border-radius: 15px;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.stat-card:hover {
+  transform: translateY(-5px);
+}
+
+/* 🔵 COLORS */
+.bg-total {
+  background: linear-gradient(45deg, #007bff, #00c6ff);
+}
+
+.bg-new {
+  background: linear-gradient(45deg, #6f42c1, #b23cff);
+}
+
+.bg-contacted {
+  background: linear-gradient(45deg, #ffc107, #ffdd57);
+  color: black;
+}
+
+.bg-converted {
+  background: linear-gradient(45deg, #28a745, #5cd65c);
+}
